@@ -1,0 +1,92 @@
+index.html<!DOCTYPE html>
+<html>
+<head>
+    <title>Emy Pure</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background: #f5f1eb;
+        }
+
+        header {
+            background: #3e2c23;
+            color: white;
+            text-align: center;
+            padding: 20px;
+            font-size: 26px;
+            letter-spacing: 2px;
+        }
+
+        .container {
+            padding: 20px;
+        }
+
+        .product {
+            background: white;
+            margin: 20px 0;
+            padding: 20px;
+            border-radius: 12px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+            text-align: center;
+        }
+
+        .product h2 {
+            margin-bottom: 10px;
+        }
+
+        .product p {
+            color: #555;
+        }
+
+        .btn {
+            display: inline-block;
+            margin-top: 10px;
+            padding: 12px 20px;
+            background: #3e2c23;
+            color: white;
+            text-decoration: none;
+            border-radius: 6px;
+        }
+
+        .btn:hover {
+            opacity: 0.8;
+        }
+
+        footer {
+            text-align: center;
+            padding: 15px;
+            background: #3e2c23;
+            color: white;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+
+<body>
+
+<header>EMY PURE</header>
+
+<div class="container">
+
+    <div class="product">
+        <h2>Coffee Scrub</h2>
+        <p>Removes tan, clears acne, and gives instant glow.</p>
+        <a class="btn" href="https://wa.me/923XXXXXXXXX">Order on WhatsApp</a>
+    </div>
+
+    <div class="product">
+        <h2>Beetroot Lip Balm</h2>
+        <p>Gives soft pink lips with deep hydration.</p>
+        <a class="btn" href="https://wa.me/923XXXXXXXXX">Order on WhatsApp</a>
+    </div>
+
+</div>
+
+<footer>© 2026 Emy Pure | Natural Beauty</footer>
+https://wa.me/03264017575
+
+</body>
+</html>
